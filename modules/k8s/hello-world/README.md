@@ -10,3 +10,7 @@ No additional values need to be specified.
         source: hello-world
 
 ```
+
+Used by the example pipelines as the chart under test.
+
+The chart is deployed by ArgoCD through the agent; see argo-apps.yaml.
